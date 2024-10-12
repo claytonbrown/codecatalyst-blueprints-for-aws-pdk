@@ -45,10 +45,10 @@
     "typescript": "5.4.5"
   },
   "dependencies": {
-    "@amazon-codecatalyst/blueprint-util.cli": "0.3.104",
-    "@amazon-codecatalyst/blueprints": "0.3.104",
+    "@amazon-codecatalyst/blueprint-util.cli": "0.3.105",
+    "@amazon-codecatalyst/blueprints": "0.3.105",
     "@amazon-codecatalyst/Centre-of-Prototyping-Excellence.pdk-synth": "0.0.0",
-    "@aws/pdk": "0.23.32",
+    "@aws/pdk": "0.23.38",
     "projen": "0.81.0"
   },
   "keywords": [
@@ -58,7 +58,7 @@
   ],
   "main": "lib/index.js",
   "license": "Apache-2.0",
-  "version": "0.0.108",
+  "version": "0.0.138",
   "types": "lib/index.d.ts",
   "publishingSpace": "Centre-of-Prototyping-Excellence",
   "displayName": "PDK - Monorepo",
